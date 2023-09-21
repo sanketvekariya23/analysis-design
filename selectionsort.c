@@ -29,7 +29,7 @@ void selectionsort(int *arr, int size)
 int main()
 {
 
-    int arr[] = {19, 88, 3, 1, 2};
+    int arr[] = {98,90,65,31,12};
     int size = 5;
     printArray(arr, size);
     selectionsort(arr, size);
